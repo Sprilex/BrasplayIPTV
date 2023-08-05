@@ -1,0 +1,69 @@
+#EXTM3U url-tvg="http://m3u4u.com/xml/xe47yz15w3cd52v4n9vq"
+#EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18651_dark_360w_270h.png" group-title="Documentários" tvg-shift="-3",Animal Planet
+http://supertv.red/220370778/407652479/100623.ts
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79689_dark_360w_270h.png" group-title="Documentários" tvg-shift="-3",Arte 1
+http://supertv.red/220370778/407652479/100615.ts
+#EXTINF:-1 tvg-id="AandE.br" tvg-name="A&E" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77795_dark_360w_270h.png" group-title="Filmes" tvg-shift="-3",A&E
+http://supertv.red/220370778/407652479/100836.ts
+#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s92009_dark_360w_270h.png" group-title="Filmes" tvg-shift="-3",AMC
+http://supertv.red/220370778/407652479/100573.ts
+#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75580_dark_360w_270h.png" group-title="Filmes" tvg-shift="-3",AXN
+http://supertv.red/220370778/407652479/100566.ts
+#EXTINF:-1 tvg-id="CanalBrasil.br" tvg-name="Canal Brasil" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94564_dark_360w_270h.png" group-title="Filmes" tvg-shift="-3",Canal Brasil
+http://supertv.red/220370778/407652479/100558.ts
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104743_dark_360w_270h.png" group-title="Filmes" tvg-shift="-3",Cinemax
+http://supertv.red/220370778/407652479/100545.ts
+#EXTINF:-1 tvg-id="FX.br" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98922_dark_360w_270h.png" group-title="Filmes" tvg-shift="-3",FX
+http://supertv.red/220370778/407652479/100539.ts
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76101_dark_360w_270h.png" group-title="Filmes" tvg-shift="-3",HBO
+http://supertv.red/220370778/407652479/100375.ts
+#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98075_dark_360w_270h.png" group-title="Filmes" tvg-shift="-3",HBO 2
+http://supertv.red/220370778/407652479/100368.ts
+#EXTINF:-1 tvg-id="HBOFamily.br" tvg-name="HBO family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56092_dark_360w_270h.png" group-title="Filmes" tvg-shift="-3",HBO family
+http://supertv.red/220370778/407652479/100363.ts
+#EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO Mundi" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69097_dark_360w_270h.png" group-title="Filmes" tvg-shift="-3",HBO Mundi
+http://supertv.red/220370778/407652479/100356.ts
+#EXTINF:-1 tvg-id="HBOPlus.br" tvg-name="HBO Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98076_dark_360w_270h.png" group-title="Filmes" tvg-shift="-3",HBO Plus
+http://supertv.red/220370778/407652479/100351.ts
+#EXTINF:-1 tvg-id="HBOPop.br" tvg-name="HBO Pop" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75590_dark_360w_270h.png" group-title="Filmes" tvg-shift="-3",HBO Pop
+http://supertv.red/220370778/407652479/100344.ts
+#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO Signature" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74530_dark_360w_270h.png" group-title="Filmes" tvg-shift="-3",HBO Signature
+http://supertv.red/220370778/407652479/100338.ts
+#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO Xtreme" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54590_dark_360w_270h.png" group-title="Filmes" tvg-shift="-3",HBO Xtreme
+http://supertv.red/220370778/407652479/100331.ts
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78130_dark_360w_270h.png" group-title="Filmes" tvg-shift="-3",Megapix
+http://supertv.red/220370778/407652479/100532.ts
+#EXTINF:-1 tvg-id="ParamountChannel.br" tvg-name="Paramount Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94356_dark_360w_270h.png" group-title="Filmes" tvg-shift="-3",Paramount Channel
+http://supertv.red/220370778/407652479/100525.ts
+#EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="Sony Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75596_dark_360w_270h.png" group-title="Filmes" tvg-shift="-3",Sony Channel
+http://supertv.red/220370778/407652479/100552.ts
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75598_dark_360w_270h.png" group-title="Filmes" tvg-shift="-3",Space
+http://supertv.red/220370778/407652479/100517.ts
+#EXTINF:-1 tvg-id="StarChannel.br" tvg-name="Star Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75586_dark_360w_270h.png" group-title="Filmes" tvg-shift="-3",Star Channel
+http://supertv.red/220370778/407652479/100895.ts
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75600_dark_360w_270h.png" group-title="Filmes" tvg-shift="-3",Telecine Action
+http://supertv.red/220370778/407652479/99971.ts
+#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="Telecine Cult" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84420_dark_360w_270h.png" group-title="Filmes" tvg-shift="-3",Telecine Cult
+http://supertv.red/220370778/407652479/99963.ts
+#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="Telecine Fun" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78314_dark_360w_270h.png" group-title="Filmes" tvg-shift="-3",Telecine Fun
+http://supertv.red/220370778/407652479/99956.ts
+#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="Telecine Pipoca" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75603_dark_360w_270h.png" group-title="Filmes" tvg-shift="-3",Telecine Pipoca
+http://supertv.red/220370778/407652479/99948.ts
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78306_dark_360w_270h.png" group-title="Filmes" tvg-shift="-3",Telecine Premium
+http://supertv.red/220370778/407652479/99945.ts
+#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="Telecine Toutch" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78304_dark_360w_270h.png" group-title="Filmes" tvg-shift="-3",Telecine Toutch
+http://supertv.red/220370778/407652479/99938.ts
+#EXTINF:-1 tvg-id="TNT.br" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75606_dark_360w_270h.png" group-title="Filmes" tvg-shift="-3",TNT
+http://supertv.red/220370778/407652479/100490.ts
+#EXTINF:-1 tvg-id="sem info" tvg-name="TNT Novelas" tvg-logo="https://forounivers.com/uploads/monthly_2023_06/small.609841548_TNTNovelas.png.d5ddcd8fbfe3cc4a348909987b3ba869.png" group-title="Filmes" tvg-shift="-3",TNT Novelas
+http://supertv.red/220370778/407652479/100501.ts
+#EXTINF:-1 tvg-id="TNTSeries.br" tvg-name="TNT Séries" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101728_dark_360w_270h.png" group-title="Filmes" tvg-shift="-3",TNT Séries
+http://supertv.red/220370778/407652479/100483.ts
+#EXTINF:-1 tvg-id="TNT.br" tvg-name="Universal Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75606_dark_360w_270h.png" group-title="Filmes" tvg-shift="-3",Universal Channel
+http://supertv.red/220370778/407652479/102560.ts
+#EXTINF:-1 tvg-id="WarnerChannel.br" tvg-name="Warner Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16214_dark_360w_270h.png" group-title="Filmes" tvg-shift="-3",Warner Channel
+http://supertv.red/220370778/407652479/100470.ts
+#EXTINF:-1 tvg-id="Band.br" tvg-name="Band" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41309_dark_360w_270h.png" group-title="Tv Aberta" tvg-shift="-3",Band
+http://supertv.red/220370778/407652479/663993.ts
+#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16529_dark_360w_270h.png" group-title="Tv Aberta" tvg-shift="-3",SBT
+http://supertv.red/220370778/407652479/101625.ts
