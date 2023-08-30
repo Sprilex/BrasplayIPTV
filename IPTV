@@ -65,7 +65,7 @@ http://supertv.red/220370778/407652479/99945.ts
 http://supertv.red/220370778/407652479/99938.ts
 #EXTINF:-1 tvg-id="TNT.br" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75606_dark_360w_270h.png" group-title="Filmes" tvg-shift="-3",TNT
 http://supertv.red/220370778/407652479/100490.ts
-#EXTINF:-1 tvg-id="sem info" tvg-name="TNT Novelas" tvg-logo="https://forounivers.com/uploads/monthly_2023_06/small.609841548_TNTNovelas.png.d5ddcd8fbfe3cc4a348909987b3ba869.png" group-title="Filmes" tvg-shift="-3",TNT Novelas
+#EXTINF:-1 tvg-id="TBS.br" tvg-name="TNT Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Filmes" tvg-shift="-3",TNT Novelas
 http://supertv.red/220370778/407652479/100501.ts
 #EXTINF:-1 tvg-id="TNTSeries.br" tvg-name="TNT Séries" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101728_dark_360w_270h.png" group-title="Filmes" tvg-shift="-3",TNT Séries
 http://supertv.red/220370778/407652479/100483.ts
