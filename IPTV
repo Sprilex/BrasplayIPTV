@@ -69,8 +69,7 @@ http://supertv.red/220370778/407652479/100490.ts
 http://supertv.red/220370778/407652479/100501.ts
 #EXTINF:-1 tvg-id="TNTSeries.br" tvg-name="TNT Séries" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101728_dark_360w_270h.png" group-title="Filmes" tvg-shift="-3",TNT Séries
 http://supertv.red/220370778/407652479/100483.ts
-#EXTINF:-1 tvg-id="TNT.br" tvg-name="Universal Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75606_dark_360w_270h.png" group-title="Filmes" tvg-shift="-3",Universal Channel
-http://supertv.red/220370778/407652479/102560.ts
+#EXTINF:-1 tvg-id="TNT.br" tvg-name="Universal Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="Filmes" tvg-shift="-3",Universal TV
 #EXTINF:-1 tvg-id="WarnerChannel.br" tvg-name="Warner Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16214_dark_360w_270h.png" group-title="Filmes" tvg-shift="-3",Warner Channel
 http://supertv.red/220370778/407652479/100470.ts
 #EXTINF:-1 tvg-id="BIS.br" tvg-name="Canal Bis" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94122_dark_360w_270h.png" group-title="Variedades" parent-code="variedades" tvg-shift="-3",Canal Bis
