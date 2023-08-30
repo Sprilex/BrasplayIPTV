@@ -1,4 +1,4 @@
-# EXTM3U url-tvg = “http://m3u4u.com/xml/xe47yz15w3cd52v4n9vq”
+#EXTM3U url-tvg = “http://m3u4u.com/xml/xe47yz15w3cd52v4n9vq”
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="BandSports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54680_dark_360w_270h.png" group-title="Esporte" tvg-shift="-3",BandSports
 http://supertv.red/220370778/407652479/100689.ts
 #EXTINF:-1 tvg-id="Off.br" tvg-name="Canal OFF" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94119_dark_360w_270h.png" group-title="Esporte" tvg-shift="-3",Canal OFF
